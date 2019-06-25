@@ -1,0 +1,34 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/IdeaProjects/Google code conventions.xml" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://github.com/KotBoris101/testRepoz.git" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://github.com/KotBoris101/testRepoz.git" />
+      </list>
+    </option>
+  </component>
+  <component name="WebServicesPluginSettings" WritableGeneratedFiles="true">
+    <StubPackage>ru.egis_otb.data.onsi.operators</StubPackage>
+    <StubPackage>ru.egis_otb.data.onsi.operators_test</StubPackage>
+    <StubPackage>ru.egis_otb.data.onsi.operators</StubPackage>
+    <JAXBUrl>file:/$USER_HOME$/IdeaProjects/libs/xsdClasses/src/main/resources/xsd/ru.egisotb.data.onsi.operators.xsd</JAXBUrl>
+    <JAXBUrl>file:/$USER_HOME$/IdeaProjects/libs/xsdClasses/src/generated/resources/xsd/gtimport/ru.egisotb.data.onsi.operators.xsd</JAXBUrl>
+    <JAXBUrl>file:/$USER_HOME$/IdeaProjects/libs/xsdClasses/src/main/java/ru/egis_otb/data/onsi/operators_test/ru.egisotb.data.onsi.operators.xsd</JAXBUrl>
+    <JAXBUrl>file:/$USER_HOME$/IdeaProjects/libs/xsdClasses/src/main/resources/xsd/ru.egisotb.data.onsi.general.xsd</JAXBUrl>
+    <JAXBUrl>file:/$USER_HOME$/IdeaProjects/libs/xsdClasses/src/generated/java/ru/egis_otb/data/onsi/operators_test/ru.egisotb.data.onsi.operators.xsd</JAXBUrl>
+  </component>
+  <component name="XjcComponent">
+    <xjc_settings name="xjc.create.ro.files" value="false" />
+    <xjc_settings name="xjc.package.name" value="ru.egis_otb.data.onsi.operators" />
+    <xjc_settings name="xjc.allow.extensions" value="false" />
+    <xjc_settings name="xjc.output.dir" value="C:\Users\user\IdeaProjects" />
+    <xjc_settings name="xjc.strict.validation" value="true" />
+  </component>
+</application>
